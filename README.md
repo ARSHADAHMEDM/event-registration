@@ -127,9 +127,8 @@ color: #131010;
 position: absolute;
 width: 98px;
 height: 111px;
-left: 131px;
-top: 99px;
-background: url(logo.jpg);
+left: 131px;top: 99px;background: url(logo.jpg);
+
 ```
 
 ## OUTPUT:
