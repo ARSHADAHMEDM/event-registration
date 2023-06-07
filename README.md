@@ -121,7 +121,6 @@ font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-
 color: #131010;
 /* logo 3 */
 position: absolute;
